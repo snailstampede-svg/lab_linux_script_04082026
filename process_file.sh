@@ -8,7 +8,7 @@ mkdir -p "$OUTPUT_DIR"
 
 
 if [ ! -f "$INPUT_FILE" ]; then
-echo "Error: Input file not found!"
+echo "Error: Input file not found! Please ensure that $INPUT_FILE exists before running the script."
 exit 1
 fi
 
