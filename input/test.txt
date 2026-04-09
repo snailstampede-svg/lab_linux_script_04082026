@@ -1,0 +1,4 @@
+today's date is 4-9-2026 - all of this text is presented in lowercase before processing.
+It will be processed line-by-lin and converted to uppercase and output to the file located at /output/output.txt. yay!
+
+there is a blank line above this one let's see if recognizes that blank line.
